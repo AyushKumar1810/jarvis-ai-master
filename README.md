@@ -2,9 +2,7 @@
 
 Complete AI Tools (Chatbot, Image Generation, Music Generation, Video Generation, and Code Generation) SaaS Platform built using Next.js 14, Stripe, OpenAI, ReplicateAI, Crisp, Aiven, and Prisma.
 
-<a href="https://aftabrehan.com/portfolio/modern-saas-ai-platform"><img src="/.github/images/thumbnail.png" alt="project-thumbnail"/></a>
 
-| [View Project 🔥](https://aftabrehan.com/portfolio/modern-saas-ai-platform) | [Live Preview 🚀](https://jarvis-wex.vercel.app) |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 
 ## Features
@@ -34,7 +32,7 @@ Complete AI Tools (Chatbot, Image Generation, Music Generation, Video Generation
 2. Clone this repository to your local machine.
 
 ```
-git clone https://github.com/aftabrehan/jarvis-ai.git
+git clone https://github.com/AyushKumar1810/jarvis-ai-master.git
 ```
 
 3. Create a `.env` file in the **root** directory and add the following contents to your `.env` file:
@@ -153,6 +151,3 @@ DATABASE_URL="mysql://<username>:<password>@<host>:<port>/<database_name>?ssl-mo
 ![Video Generation](/.github/images/video-page.png 'Video Generation')
 
 ![Code Generation](/.github/images/code-page.png 'Code Generation')
-
-> [!NOTE]
-> This project is designed exclusively for portfolio purposes, and you are welcome to utilize it as you deem fit.
