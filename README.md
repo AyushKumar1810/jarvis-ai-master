@@ -136,18 +136,4 @@ DATABASE_URL="mysql://<username>:<password>@<host>:<port>/<database_name>?ssl-mo
 > [!IMPORTANT]
 > Keep your API keys and configuration values secure and do not expose them publicly.
 
-## Screenshots:
 
-![Modern UI/UX](/.github/images/main-image.png 'Modern UI/UX')
-
-![Dashboard](/.github/images/dashboard-page.png 'Dashboard')
-
-![Conversation Generation](/.github/images/coversation-page.png 'Conversation Generation')
-
-![Music Generation](/.github/images/music-page.png 'Music Generation')
-
-![Image Generation](/.github/images/image-page.png 'Image Generation')
-
-![Video Generation](/.github/images/video-page.png 'Video Generation')
-
-![Code Generation](/.github/images/code-page.png 'Code Generation')
